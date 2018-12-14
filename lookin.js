@@ -6,5 +6,10 @@ function myTriangle() {
     var side3=document.getElementById("integer").value;
     alert(side3);
 }
+var is =
+ if(a+b>c)) {
+     (a+c>b))
+     (b+c>a))
+ }
 
 
