@@ -1,19 +1,10 @@
-function myFunction() {
-    var firstString =
-    document.getElementById("myNumber").value;
-    alert(firstString);
+function myTriangle() {
+    var side1 =document.getElementById("number").value;
+    alert(side1);
+    var side2 =document.getElementById("decimal").value;
+    alert(side2);
+
 }
 
-function myFunction() {
-    var firstString =
-    document.getElementById("decimal").value;
-    alert(firstString);
-}
-
-function myFunction() {
-    var firstString =
-    document.getElementById("integer").value;
-    alert(firstString);
-}
-
-var firstString = 3;
+    
+   
