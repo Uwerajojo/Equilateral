@@ -15,3 +15,5 @@ function myFunction() {
     document.getElementById("integer").value;
     alert(firstString);
 }
+
+var firstString = 3;

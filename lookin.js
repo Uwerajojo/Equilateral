@@ -6,10 +6,10 @@ function myFunction() {
 function myFunction() {
     var firstString =
     document.getElementById("decimal").value;
-    alert(firstString);
+    alert(secondString);
 }
 function myFunction() {
     var firstString =
     document.getElementById("integer").value;
-    alert(firstString);
+    alert(thirdString);
 }
