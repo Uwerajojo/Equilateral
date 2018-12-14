@@ -7,5 +7,8 @@ function myFunction() {
     document.getElementById("decimal").value;
     alert(secondString);
 
-    
+    var thirdString =
+    document.getElementById("integer").value;
+    alert(thirdString);
+}
 
